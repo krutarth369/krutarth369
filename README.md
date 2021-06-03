@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krutarth369
+- 👋 Hi, I’m @krutarthdhamdhere
 - 👀 I’m interested in Data Science and AI
 - 🌱 I’m currently learning IT
 - 📫 How to reach me Linkedin : https://www.linkedin.com/in/krutarthdhamdhere/
